@@ -151,7 +151,7 @@ export class CoreLoginCredentialsPage {
                 this.eventsProvider.trigger(CoreEventsProvider.LOGIN_SITE_CHECKED, { config: this.siteConfig });
             }
         } else {
-            this.siteName = null;
+            this.siteName = 'Desire 2 Elearning';
             this.logoUrl = null;
             this.authInstructions = null;
             this.canSignup = false;
