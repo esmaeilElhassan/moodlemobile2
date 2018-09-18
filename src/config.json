@@ -1,7 +1,7 @@
 {
     "app_id" : "com.d2el.elearningapp",
     "appname": "D2EL",
-    "desktopappname": "Moodle Desktop",
+    "desktopappname": "D2EL",
     "versioncode" : 3520,
     "versionname" : "3.5.2",
     "cache_expiration_time" : 300000,
