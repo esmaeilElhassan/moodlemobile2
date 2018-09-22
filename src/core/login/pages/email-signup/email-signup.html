@@ -50,10 +50,10 @@
         <form ion-list *ngIf="settingsLoaded && settings && !ageDigitalConsentVerification" [formGroup]="signupForm" (ngSubmit)="create()">
             <ion-item text-wrap text-center>
                 <!-- If no sitename show big siteurl. -->
-                <p *ngIf="!siteName" padding class="item-heading">{{siteUrl}}</p>
+                <!-- <p *ngIf="!siteName" padding class="item-heading">{{siteUrl}}</p> -->
                 <!-- If sitename, show big sitename and small siteurl. -->
                 <p *ngIf="siteName" padding class="item-heading"><core-format-text [text]="siteName"></core-format-text></p>
-                <p *ngIf="siteName">{{siteUrl}}</p>
+                <!-- <p *ngIf="siteName">{{siteUrl}}</p> -->
             </ion-item>
 
             <!-- Username and password. -->
