@@ -1,5 +1,5 @@
 {
-    "app_id" : "net.ust.elearning",
+    "app_id" : "edu.ust.elearning",
     "appname": "U.S.T Elearning",
     "desktopappname": "U.S.T Elearning",
     "versioncode" : 3520,
@@ -11,7 +11,7 @@
     "wsextservice" : "local_mobile",
     "demo_sites": {"student": {"url": "https://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "https://school.demo.moodle.net", "username": "teacher", "password": "moodle"}},
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "ustelearning",
     "siteurl": "https://ust-elearning.net",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
