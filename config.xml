@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="edu.ust.elearning" version="3.5.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="ust.elearning" version="3.5.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>U.S.T Elearning</name>
     <description>U.S.T Elearning</description>
     <author email="wailabualela@gmail.com" href="https://ust-elearning.net">isc development team</author>
