@@ -2,7 +2,7 @@
 <widget id="sd.d2el.elearning" version="3.5.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>D2EL</name>
     <description>D2EL - Desire 2 Elearning</description>
-    <author email="wailabualela@gmail.com" href="https://d2el/moodle.com">Isc Development team</author>
+    <author email="wailabualela@gmail.com" href="http://isco.ca">Innovative Developer</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
